@@ -1,0 +1,18 @@
+{
+  "Author": "lin",
+  "Name": "omgcombo",
+  "InternalName": "omgcombo",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Lazy one-button combos and stuff",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Combo"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "For the degenerate and lazy",
+  "AcceptsFeedback": true
+}
