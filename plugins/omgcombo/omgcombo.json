@@ -6,13 +6,14 @@
   "Description": "Lazy one-button combos and stuff",
   "ApplicableVersion": "any",
   "Tags": [
-    "Combo"
+    "combo"
   ],
   "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "For the degenerate and lazy",
+  "IconUrl": "https://raw.githubusercontent.com/mousseng/omgcombo/main/123.png",
+  "Punchline": "For decrepit old gamers",
   "AcceptsFeedback": true
 }
