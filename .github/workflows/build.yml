@@ -7,8 +7,10 @@ jobs:
     steps:
       - name: Checkout plugin repo
         uses: actions/checkout@main
+
       - name: Regenerate pluginmaster.json
         run: ./build.ps1
+
       - name: Commit package update
         uses: EndBug/add-and-commit@main
         with:
