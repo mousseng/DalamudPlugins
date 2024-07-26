@@ -1,4 +1,5 @@
 $dlTemplate = "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/{0}/latest.zip"
+$output = New-Object Collections.Generic.List[object]
 
 Get-ChildItem -Path ./plugins/ -File -Recurse -Include *.json |
 Foreach-Object {
