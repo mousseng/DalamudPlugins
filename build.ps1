@@ -23,9 +23,9 @@ Foreach-Object {
     $installLink = $dlTemplate -f $internalName
     $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
     $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
-    $content | add-member -Force -Name "DownloadLinkUpdate" $updateLink -MemberType NoteProperty
+    $content | add-member -Force -Name "DownloadLinkUpdate" $installLink -MemberType NoteProperty
 
     $output.Add($content)
 }
 
-$output | ConvertTo-Json | Out-File -FilePath .\pluginmaster.json
+ConvertTo-Json -InputObject $output | Out-File -FilePath .\pluginmaster.json
