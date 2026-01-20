@@ -3,7 +3,7 @@
     "Author": "lin",
     "Name": "omgcombo",
     "InternalName": "omgcombo",
-    "AssemblyVersion": "3.0.0.0",
+    "AssemblyVersion": "3.1.0.0",
     "Description": "Lazy one-button combos and stuff",
     "ApplicableVersion": "any",
     "Tags": [
@@ -19,7 +19,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1768868249",
+    "LastUpdate": "1768868564",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/omgcombo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/omgcombo/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/omgcombo/latest.zip"
