@@ -1,6 +1,27 @@
 [
   {
     "Author": "lin",
+    "Name": "Hotswap",
+    "InternalName": "Hotswap",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Like /hotbar but it lets you set macros",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Like /hotbar but it lets you set macros",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": "1776127726",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/Hotswap/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/Hotswap/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/Hotswap/latest.zip"
+  },
+  {
+    "Author": "lin",
     "Name": "omgcombo",
     "InternalName": "omgcombo",
     "AssemblyVersion": "3.1.0.0",
@@ -19,7 +40,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1768868564",
+    "LastUpdate": "1776127726",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/omgcombo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/omgcombo/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/mousseng/DalamudPlugins/main/plugins/omgcombo/latest.zip"
