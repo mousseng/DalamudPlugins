@@ -2,13 +2,13 @@
   "Author": "lin",
   "Name": "omgcombo",
   "InternalName": "omgcombo",
-  "AssemblyVersion": "3.2.0.0",
+  "AssemblyVersion": "3.3.0.0",
   "Description": "Lazy one-button combos and stuff",
   "ApplicableVersion": "any",
   "Tags": [
     "combo"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
